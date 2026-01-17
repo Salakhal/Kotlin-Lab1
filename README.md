@@ -43,3 +43,4 @@ Score boost = 1028
 Final boosted score = 1285
 
 ```
+<img width="917" height="338" alt="image" src="https://github.com/user-attachments/assets/0d435031-0875-4cb6-bb6a-5e7f55e954f3" />
